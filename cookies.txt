@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cs.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	21-Apr-2024
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	21-Apr-2024
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	CZ:64:Oslavany:49.12:16.34:v4
+cs.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+learn.cisecurity.org	TRUE	/	FALSE	1999999999	pardot	deleted
+
